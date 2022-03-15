@@ -1,0 +1,233 @@
+html{
+    
+    background-color:rgb(34, 31, 31) ;
+}
+body{
+    background-color: aliceblue;
+    margin-left: 4em;
+    margin-right: 4em;
+    margin-top: -1.2em;
+    margin-bottom: 0em;
+    align-items: center;
+}
+/* PARTE 1 */
+.t{
+    font-size: 2em;
+    margin-left: 4em;
+    top: 2em;
+    position: relative;
+    color: rgb(44, 105, 219);
+    
+}
+.te{
+    font-weight: 800;
+    position: relative;
+    color: rgb(44, 105, 219);
+}
+.text1{
+    font-weight: 300;
+    color:gray;
+    margin-left: 2em;
+    width: 15em;
+    height: 50em;
+    top: 3em;
+    position:relative;
+    font-size: 2em;
+
+}
+.l1{
+    margin: 5%;
+    font-size:medium;
+    color: rgb(44, 105, 219);
+}
+.tp{
+    position: relative;
+    left: 45em;
+}
+.i{
+    margin-right: 1em;
+    color:gray;
+    font-weight: 550;
+    border: none;
+    background-color: white;
+}
+.e{
+    color: white;
+    height: 3em;
+    width: 9em;
+    border: none;
+    border-radius: 2.5%;
+    background-color:rgb(71, 71, 212) ;
+    font-weight: 550;
+    margin-left:1em ;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.295)
+}
+.tb1{
+    position: relative;
+    width: 40em;
+    height: 6.5em;
+    top: -120em;
+    left: 10em;
+    background-color: rgba(255, 255, 255, 0.295);
+    box-shadow: 20px 20px 15px rgba(0, 0, 0, 0.295)
+}
+.tt1{
+    margin-left: -4em;
+    position: relative;
+    color: gray;
+}
+
+.tt2{
+    margin-left: -4em;
+    position: relative;
+    color:rgb(71, 71, 212) ;
+    font-weight: 55;
+}
+.o{
+    color: white;
+    height: 3em;
+    width: 9em;
+    border: none;
+    border-radius: 2.5%;
+    background-color:rgb(71, 71, 212) ;
+    font-weight: 550;
+    top: -4.5em;
+    margin-left:35em ;
+    position: relative;
+}
+.sche{
+    color: rgb(44, 105, 219);
+    font-weight: 550;
+}
+/*Division 1*/
+.division{
+    background-color: white;
+    width: 100%;
+    height: 10em;
+    position: relative;
+    top:-117.5em;
+    text-align: center;
+    color: rgb(197, 236, 236);
+    align-content: center;
+}
+/*Parte 2*/
+.tb2{
+    font-weight: 800;
+    font-size: 1.5em;
+    color: rgb(44, 105, 219);
+}
+.tb3{
+    color: gray;
+}
+.tab2{
+    top: -116em;
+    margin-left: 5em;
+    margin-right: 5em;
+    position:relative;
+}
+.text2{
+    font-weight: 300;
+    color:gray;
+    margin-left: 6em;
+    width: 25em;
+    top: -120em;
+    position:relative;
+
+}
+/*Parte 3*/
+.text3{
+    font-weight: 300;
+    color:gray;
+    margin-left: 45em;
+    width: 25em;
+    top: -110em;
+    position:relative;
+
+}
+summary{
+    color:  rgb(44, 105, 219);
+    font-weight: 600;
+}
+/*Parte 4*/
+.ms{
+    color: rgb(35, 35, 36);
+    font-size: 1em;
+}
+.dn{
+font-weight: 600;
+color: white;
+border: none;
+width: 10em;
+border-radius: 10%;
+height: 4.5em;
+background-color:  rgb(44, 105, 219);
+box-shadow: 20px 20px 15px rgba(0, 0, 0, 0.295)
+
+}
+.ll{
+    font-size: smaller;
+    color: black;
+}
+.centradobot{
+    margin-left: 4em;
+}
+.text4{
+    font-weight: 300;
+    color:gray;
+    margin-left: 4em;
+    width: 25em;
+    top: -117em;
+    position:relative;
+}
+.tabla45{
+    margin: left 3em;
+    border-color: rgb(68, 131, 131);
+}
+.tabla46{
+    margin: left 3em;
+    margin: left 3em;
+}
+/* Footer */
+.titulo{
+    font-weight: 1000;
+    font-size: 2em;
+    color:  rgb(44, 105, 219);
+}
+label{
+    color: gray;
+}
+footer{
+    position: relative;
+    margin-left: 2em;
+    margin-right: 2em;
+    bottom:150;
+}
+/* Imagenes */
+.im{
+    
+    position:relative;
+    top:-100em;
+    margin-left: 41.3em;
+    width: 35em;
+    height: 60em; 
+}
+.im2{
+    
+    position:relative;
+    top: -127em;
+    margin-left:4em;
+    
+}
+.im3{
+    
+    position:relative;
+    top:-130em;
+    margin-left: 41.3em;
+    width: 30em;
+    height: 27em; 
+}
+.icon{
+    width: 1em;
+    height: 1em;
+}
+
